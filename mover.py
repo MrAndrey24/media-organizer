@@ -2,9 +2,9 @@
 from PIL import Image
 from pathlib import Path
 
-DOWNLOADS_FOLDER = Path("C:/Users/Andrey Sam/Downloads")
-PICTURES_FOLDER = Path("C:/Users/Andrey Sam/Pictures")
-MUSIC_FOLDER = Path("C:/Users/Andrey Sam/Music")
+DOWNLOADS_FOLDER = Path("/your path folder")
+PICTURES_FOLDER = Path("/your path folder")
+MUSIC_FOLDER = Path("/your path folder")
 
 
 def compress_images():
