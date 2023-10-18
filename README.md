@@ -6,3 +6,4 @@ A Python script that compresses image files in the downloads folder and moves th
 1: Mac: python3 -m pip install Pillow
 
 2: Windows: python -m pip install Pillow
+ 
