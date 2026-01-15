@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-image = "*"
 path = "*"
+pillow = "*"
 
 [dev-packages]
 
